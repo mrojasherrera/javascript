@@ -1,0 +1,6 @@
+Con JS se puede cambiar el contenido de un elemento de un documento html
+
+  document.getElementById()
+Ejemplo:
+  document.getElementById("unElemento").innerHtml = "Hola a Todos";
+
